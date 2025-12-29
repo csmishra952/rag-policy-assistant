@@ -1,0 +1,10 @@
+**TechGadget Inc. Privacy & Data Policy**
+
+1. Data Collection
+We collect email addresses, shipping addresses, and device usage statistics. We do NOT store credit card numbers; these are handled by our payment processor, Stripe.
+
+2. Data Sharing
+We do not sell your personal data. We share shipping data with FedEx/UPS solely for delivery purposes.
+
+3. Account Deletion
+You may request account deletion by emailing privacy@techgadget.inc. This process takes up to 30 days.

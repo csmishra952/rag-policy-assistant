@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface  
+langchain-chroma       
+python-dotenv
+tiktoken
+sentence-transformers

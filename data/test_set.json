@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the return window for a refurbished laptop?",
+    "ground_truth": "The return window for refurbished items is strictly 14 days.",
+    "type": "specific_fact"
+  },
+  {
+    "question": "I live in Canada and want to buy a $40 item. How much is shipping?",
+    "ground_truth": "Shipping to Canada for orders under $50 is a flat rate of $5.99.",
+    "type": "synthesis"
+  },
+  {
+    "question": "Can I return a gift card if I haven't used it?",
+    "ground_truth": "No, gift cards are non-refundable items.",
+    "type": "negative_constraint"
+  },
+  {
+    "question": "Who is the CEO of TechGadget?",
+    "ground_truth": "I cannot answer this based on the current company policies.",
+    "type": "out_of_scope"
+  },
+  {
+    "question": "What happens if my package is stolen after delivery?",
+    "ground_truth": "TechGadget is not responsible for package theft after confirmed delivery.",
+    "type": "policy_limit"
+  }
+]
