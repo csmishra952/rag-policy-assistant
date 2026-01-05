@@ -81,7 +81,7 @@ The system was evaluated using an automated "LLM-as-a-Judge" pipeline on a diver
 ## Prompt Engineering
 I evolved the prompt from a simple instruction to a structured **Chain-of-Thought** format to handle complex queries like shipping calculations.
 
-**Final Prompt Structure:**
+**Prompt Structure:**
 ```text
 You are a Senior Customer Support AI.
 <Instructions>
